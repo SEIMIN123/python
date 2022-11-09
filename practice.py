@@ -1,6 +1,6 @@
-print(5)
-print(-10)
-print(3.14)
-print(1000)
-print(5+3)
-print(2*4)
+a = "hello"
+
+b = "fuck"
+
+print(a[1])
+print(a[::3])
